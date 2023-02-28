@@ -11,7 +11,11 @@
 <h4>
 - Email : jieun47631@gmail.com
 - Blog : https://kwak-jieun.tistory.com/
-- Instagram : @jieuni1_31
+- Instagram : <p align="center">
+  <img src="https://user-images.githubusercontent.com/109029034/221773866-11c56ff5-0d58-4bc2-80b7-032d758fa1d8.png">
+</p>
+@jieuni1_31
+
 </h4>
 
 <h1>활동</h1>
