@@ -11,7 +11,7 @@
 - Email : <a href="https://mail.google.com/">jieun47631@gmail.com</a>
 - Blog : <a href="https://kwak-jieun.tistory.com"/>딩가딩가 코딩</a>
 - Instagram : <p align="center">
-  <img src="https://user-images.githubusercontent.com/109029034/221781730-dcfd223f-53d7-4d06-ad1f-a6faa3e6b204.png" width="50" height="50"></p>
+  <img src="https://user-images.githubusercontent.com/109029034/221781730-dcfd223f-53d7-4d06-ad1f-a6faa3e6b204.png" width="150" height="150"></p>
 
 <h1>활동</h1>
 
