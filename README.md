@@ -9,12 +9,11 @@
 
 <h1>소개</h1>
 <h4>
-- Email : jieun47631@gmail.com
-- Blog : https://kwak-jieun.tistory.com/
+- Email : <a href="https://mail.google.com/">jieun47631@gmail.com</a>
+- Blog : <a href="https://kwak-jieun.tistory.com"/>딩가딩가 코딩</a>
 - Instagram : <p align="center">
-  <img src="https://user-images.githubusercontent.com/109029034/221773866-11c56ff5-0d58-4bc2-80b7-032d758fa1d8.png">
-</p>
-@jieuni1_31
+  <img src="![jieuni1_31_qr (1)](https://user-images.githubusercontent.com/109029034/221781730-dcfd223f-53d7-4d06-ad1f-a6faa3e6b204.png)
+"></p>
 
 </h4>
 
